@@ -3,7 +3,7 @@
 Usage Instructions:
 This pipeline can be executed with the "run.py" script.  This script will load in and process 5 images, and will generate an output of 5 images with bounding boxes and digit classification displayed.   This script requires the use of trained weights, which can be found at the following location:
 
-				https://drive.google.com/drive/folders/1pkFPTbXy2yXQb4siWjkS_Ajc1Ae-LKnc?usp=drive_link
+https://drive.google.com/drive/folders/1pkFPTbXy2yXQb4siWjkS_Ajc1Ae-LKnc?usp=drive_link
 
 The following directory structure must be created to run this pipeline:
 	At the same level where the "run.py" script is located on your computer, create 3 folders.  
@@ -25,7 +25,7 @@ The "supporting_files" folder contains supporting files and code that was used i
 
 To view the output of the video, the file can be found at the following location on Google Drive:
 
-			https://drive.google.com/drive/folders/1pkFPTbXy2yXQb4siWjkS_Ajc1Ae-LKnc?usp=drive_link
+https://drive.google.com/drive/folders/1pkFPTbXy2yXQb4siWjkS_Ajc1Ae-LKnc?usp=drive_link
 
 
 ---------------------------------------------------------
