@@ -57,5 +57,5 @@ There are 2 files contained in the folder "supporting_files".
 
 The train.py file is a python script that was used to generate the weights of the CNN classifiier.  There are 3 models trained in this file (and are described in full detail in the Report).  The Custom CNN model corresponds to the code that is executable.  The code that is commented out was used for training both of the VGG-16 models (untrained, and pre-trained versions).  This code was executed on a Google Colab instance, and later converted to the train.py script contained in this directory.  The executable code in this file will generate the trained weights for the Custom CNN model.  A GPU is recommended for this task.
 
-The video_run.py file is a python script that extends the run.py script, so as to generate a video .mp4 file from individual frames of a recorded video.  The original recorded video was taken on a Samsung cellphone of a house, and used to generate the video.mp4 file (see gatech.box.com link above for file location).  
+The video_run.py file is a python script that extends the run.py script, so as to generate a video .mp4 file from individual frames of a recorded video.  The original recorded video was taken on a Samsung cellphone of a house, and used to generate the video.mp4 file (see Google Drive link above for file location).  
 
