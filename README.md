@@ -13,7 +13,7 @@ The following directory structure must be created to run this pipeline:
 	See attached Screenshot for a visualization of this file structure, if needed.
 
 
-Inside the "graded_images" folder, create another folder called "cnn_model" (no quotation).  The trained weights downloaded from GaTech Box (.pth file) should be inserted into this "cnn_model" folder.  Nothing else should belong to this "cnn_model" folder.  After the "run.py" script is exectuted, the 5 output images will be saved and written to this "graded_images" folder.
+Inside the "graded_images" folder, create another folder called "cnn_model" (no quotation).  The trained weights downloaded from Google Drive (.pth file) should be inserted into this "cnn_model" folder.  Nothing else should belong to this "cnn_model" folder.  After the "run.py" script is exectuted, the 5 output images will be saved and written to this "graded_images" folder.
 
 Inside the "houses" folder, the following housing data files should be inserted: 
 House1.png, House2.webp, House3.webp, House4.webp, House5.png
